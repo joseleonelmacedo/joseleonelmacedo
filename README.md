@@ -1,8 +1,8 @@
 ## Ola me chamo Leonel 👋
 
 - 🌱 graduado em sistema da informação com foco na parte de front end ...
-- 😄 Pronomes:ele dele
-- ⚡ Fun fact:viciado em anime e academia
+- 😄 Pronomes: ele dele
+- ⚡ Fun fact: viciado em anime e academia
 <div>
   <a href="https://github.com/joseleonelmacedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseleonelmacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
