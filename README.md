@@ -1,6 +1,6 @@
 ## Ola me chamo Leonel 👋
 
-- 🌱 graduado em Análise e Desenvolvimento de Sistemas com foco na parte de front end ...
+- 🌱 graduado em Análise e Desenvolvimento de Sistemas com foco na parte de front end
 - 😄 Pronomes: ele dele
 - ⚡ Fun fact: viciado em anime e academia
 <div>
